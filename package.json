@@ -1,0 +1,29 @@
+{
+  "name": "regex-escape",
+  "version": "1.0.0",
+  "description": "Escapes input characters to be used in regular expressions.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "contributors": [
+    "CoolAJ86 http://stackoverflow.com/users/151312/coolaj86"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IonicaBizau/regex-escape.git"
+  },
+  "keywords": [
+    "regex",
+    "escape"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/regex-escape/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/regex-escape"
+}
