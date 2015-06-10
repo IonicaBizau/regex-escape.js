@@ -1,6 +1,6 @@
 {
   "name": "regex-escape",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Escapes input characters to be used in regular expressions.",
   "main": "lib/index.js",
   "directories": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:IonicaBizau/regex-escape.git"
+    "url": "git@github.com:IonicaBizau/node-regex-escape.git"
   },
   "keywords": [
     "regex",
@@ -23,7 +23,7 @@
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "license": "KINDLY",
   "bugs": {
-    "url": "https://github.com/IonicaBizau/regex-escape/issues"
+    "url": "https://github.com/IonicaBizau/node-regex-escape/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/regex-escape"
+  "homepage": "https://github.com/IonicaBizau/node-regex-escape"
 }
