@@ -26,9 +26,11 @@ $ npm i regex-escape
 ## Example
 
 ```js
+// Dependencies
 var RegexEscape = require("regex-escape");
 
 console.log(RegexEscape("{#/}"));
+// => \{#\/\}
 
 ```
 
