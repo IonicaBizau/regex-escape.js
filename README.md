@@ -52,6 +52,11 @@ Adds the `RegexEscape` function to `RegExp` class.
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
+## Thanks
+Big thanks to [CoolAj86](http://stackoverflow.com/users/151312/coolaj86) for
+posting [this answer](http://stackoverflow.com/a/6969486/1420197). This library
+uses the black magic regex from that answer. :sparkles:
+
 ## License
 [KINDLY][license] © [Ionică Bizău][website]–The [LICENSE](/LICENSE) file contains
 a copy of the license.
