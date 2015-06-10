@@ -37,13 +37,13 @@ console.log(RegexEscape("{#/}"));
 ## Documentation
 
 ### `RegexEscape(input)`
-Encodes a string for using in a regular expression.
+Escapes a string for using it in a regular expression.
 
 #### Params
-- **String** `input`: The string that must be encoded.
+- **String** `input`: The string that must be escaped.
 
 #### Return
-- **String** The encoded string.
+- **String** The escaped string.
 
 ### `proto()`
 Adds the `RegexEscape` function to `RegExp` class.
