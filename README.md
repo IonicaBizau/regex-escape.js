@@ -1,4 +1,5 @@
 # regex-escape [![Support this project][donate-now]][paypal-donations]
+
 Escapes input characters to be used in regular expressions.
 
 ## Installation
