@@ -25,5 +25,10 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-regex-escape/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-regex-escape"
+  "homepage": "https://github.com/IonicaBizau/node-regex-escape",
+  "blah": {
+    "thanks": [
+      "Big thanks to [CoolAj86](http://stackoverflow.com/users/151312/coolaj86) for posting [this answer](http://stackoverflow.com/a/6969486/1420197). This library uses the black magic regex from that answer. :sparkles:"
+    ]
+  }
 }
