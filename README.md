@@ -1,14 +1,18 @@
+
 # regex-escape [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/regex-escape.svg)](https://www.npmjs.com/package/regex-escape) [![Downloads](https://img.shields.io/npm/dt/regex-escape.svg)](https://www.npmjs.com/package/regex-escape) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Escapes input characters to be used in regular expressions.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save regex-escape
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 // Dependencies
@@ -18,7 +22,8 @@ console.log(RegexEscape("{#/}"));
 // => \{#\/\}
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `RegexEscape(input)`
 Escapes a string for using it in a regular expression.
@@ -35,28 +40,27 @@ Adds the `RegexEscape` function to `RegExp` class.
 #### Return
 - **Function** The `RegexEscape` function.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Thanks
+## :cake: Thanks
 Big thanks to [CoolAj86](http://stackoverflow.com/users/151312/coolaj86) for posting [this answer](http://stackoverflow.com/a/6969486/1420197). This library uses the black magic regex from that answer. :sparkles:
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`barbe`](https://github.com/IonicaBizau/node-barbe)
 
- - [`camelo`](https://github.com/IonicaBizau/camelo#readme)
+ - [`barbe`](https://github.com/IonicaBizau/barbe)—Like mustache, but simple, tiny and fast.
+ - [`camelo`](https://github.com/IonicaBizau/camelo#readme)—Convert a string into camel case style by providing the separators.
+ - [`chance-token-replacer`](https://github.com/drewbrokke/chance-token-replacer#readme) (by Drew Brokke)—A simple utility to replace tokens in a string with generations from the chance random generator helper
+ - [`doodle-data`](https://github.com/regular/doodle-data#readme) (by Jan Bölsche)—get the data of a doodle.com poll
+ - [`engine-flow-types`](https://github.com/jillix/engine-flow-types#readme) (by jillix)—Low level library providing Engine flow types.
+ - [`luhnify`](https://github.com/koopero/luhnify#readme) (by Samm Cooper)—Generate random Luhn sequences, such as credit card numbers.
+ - [`parse-it`](https://github.com/IonicaBizau/parse-it#readme)—Configurable string templating, without separators.
 
- - [`doodle-data`](https://github.com/regular/doodle-data#readme) by Jan Bölsche
-
- - [`engine-flow-types`](https://github.com/jillix/engine-flow-types#readme) by jillix
-
- - [`luhnify`](https://github.com/koopero/luhnify#readme) by Samm Cooper
-
- - [`parse-it`](https://github.com/IonicaBizau/parse-it#readme)
-
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
