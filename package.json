@@ -1,6 +1,6 @@
 {
   "name": "regex-escape",
-  "version": "3.4.3",
+  "version": "3.4.4",
   "description": "Escapes input characters to be used in regular expressions.",
   "main": "lib/index.js",
   "directories": {
@@ -35,6 +35,7 @@
     "bin/",
     "app/",
     "lib/",
+    "build/",
     "dist/",
     "src/",
     "resources/",
