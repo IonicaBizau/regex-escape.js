@@ -1,7 +1,7 @@
 
 # regex-escape
 
- [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/regex-escape.svg)](https://www.npmjs.com/package/regex-escape) [![Downloads](https://img.shields.io/npm/dt/regex-escape.svg)](https://www.npmjs.com/package/regex-escape) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-%23e6461a.svg)][paypal-donations] [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/regex-escape.svg)](https://www.npmjs.com/package/regex-escape) [![Downloads](https://img.shields.io/npm/dt/regex-escape.svg)](https://www.npmjs.com/package/regex-escape) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Escapes input characters to be used in regular expressions.
 
@@ -47,6 +47,15 @@ Adds the `RegexEscape` function to `RegExp` class.
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
+## :moneybag: Donations
+
+Another way to support the development of my open-source modules is
+to [set up a recurring donation, via Patreon][patreon]. :rocket:
+
+[PayPal donations][paypal-donations] are appreciated too! Each dollar helps.
+
+Thanks! :heart:
+
 ## :cake: Thanks
 Big thanks to [CoolAj86](http://stackoverflow.com/users/151312/coolaj86) for posting [this answer](http://stackoverflow.com/a/6969486/1420197). This library uses the black magic regex from that answer. :sparkles:
 
@@ -55,10 +64,13 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 
  - [`barbe`](https://github.com/IonicaBizau/barbe)—Like mustache, but simple, tiny and fast.
+ - [`bloggify-router`](https://github.com/IonicaBizau/bloggify-router#readme)—The default Bloggify router.
  - [`camelo`](https://github.com/IonicaBizau/camelo#readme)—Convert a string into camel case style by providing the separators.
  - [`chance-token-replacer`](https://github.com/drewbrokke/chance-token-replacer#readme) (by Drew Brokke)—A simple utility to replace tokens in a string with generations from the chance random generator helper
  - [`doodle-data`](https://github.com/regular/doodle-data#readme) (by Jan Bölsche)—get the data of a doodle.com poll
  - [`engine-flow-types`](https://github.com/jillix/engine-flow-types#readme) (by jillix)—Low level library providing Engine flow types.
+ - [`html-encoder-decoder`](https://github.com/IonicaBizau/html-encoder-decoder)—HTML Encoder / Decoder - Converts characters to their corresponding HTML Entities
+ - [`hubot-lgtm`](https://github.com/catops/hubot-lgtm#readme) (by Chris Contolini)—Automatically merge pull requests after contributors have given the thumbs up
  - [`luhnify`](https://github.com/koopero/luhnify#readme) (by Samm Cooper)—Generate random Luhn sequences, such as credit card numbers.
  - [`parse-it`](https://github.com/IonicaBizau/parse-it#readme)—Configurable string templating, without separators.
 
@@ -66,6 +78,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 [MIT][license] © [Ionică Bizău][website]
 
+[patreon]: https://www.patreon.com/ionicabizau
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
