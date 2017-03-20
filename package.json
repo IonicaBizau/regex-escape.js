@@ -1,6 +1,6 @@
 {
   "name": "regex-escape",
-  "version": "3.4.4",
+  "version": "3.4.5",
   "description": "Escapes input characters to be used in regular expressions.",
   "main": "lib/index.js",
   "directories": {
@@ -20,7 +20,7 @@
     "regex",
     "escape"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/regex-escape.js/issues"
@@ -35,12 +35,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
