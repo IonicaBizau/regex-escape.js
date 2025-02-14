@@ -1,6 +1,6 @@
 {
   "name": "regex-escape",
-  "version": "3.4.10",
+  "version": "3.4.11",
   "description": "Escapes input characters to be used in regular expressions.",
   "main": "lib/index.js",
   "directories": {
@@ -42,6 +42,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
