@@ -75,7 +75,7 @@ yarn add regex-escape
 
 ```js
 // Dependencies
-var RegexEscape = require("regex-escape");
+import RegexEscape from "regex-escape";
 
 console.log(RegexEscape("{#/}"));
 // => \{#\/\}

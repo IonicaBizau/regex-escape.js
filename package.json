@@ -2,7 +2,9 @@
   "name": "regex-escape",
   "version": "3.4.11",
   "description": "Escapes input characters to be used in regular expressions.",
+  "type": "module",
   "main": "lib/index.js",
+  "exports": "./lib/index.js",
   "directories": {
     "example": "example"
   },

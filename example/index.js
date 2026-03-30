@@ -1,5 +1,5 @@
 // Dependencies
-var RegexEscape = require("../lib");
+import RegexEscape from "../lib/index.js";
 
 console.log(RegexEscape("{#/}"));
 // => \{#\/\}
